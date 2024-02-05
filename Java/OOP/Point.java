@@ -69,7 +69,6 @@ public class Point implements Comparable {
     }
 }
 
-/*
 
 interface Order {
     public boolean lessThan(Order other);
@@ -78,5 +77,3 @@ interface Order {
 interface Comparable extends Order {
     public int compareTo(Object other);
 }
-
-*/
