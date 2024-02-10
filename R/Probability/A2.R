@@ -1,5 +1,3 @@
-#!/usr/bin/env Rscript
-
 install.packages("extraDistr")
 install.packages("EnvStats")
 library(extraDistr)

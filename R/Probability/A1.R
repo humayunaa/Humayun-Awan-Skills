@@ -43,7 +43,7 @@ points(x, f_x(x), type = "p")
 plot(x, F_x(x), type = "l", main = "Cumulative Distribution Function", xlab = "x", ylab = "F(x)")
 points(x, F_x(x), type = "p")
 
-[##########################Task-4, 5, 6#######]
+##########################Task-4, 5, 6#######
 #!/usr/bin/env Rscripts
 
 library(extraDistr)
